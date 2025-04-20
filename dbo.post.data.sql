@@ -1,0 +1,5 @@
+﻿SET IDENTITY_INSERT [dbo].[post] ON
+INSERT INTO [dbo].[post] ([PostId], [Title], [Content], [PostDate], [AuthorName], [AuthorAvatar], [AuthorDescription]) VALUES (1, N'Sample Post 1', N'Lorem ipsum content for post 1.', N'1900-01-01 00:00:06', N'John Doe', N'images/football.jpg', N'Author 1 description')
+INSERT INTO [dbo].[post] ([PostId], [Title], [Content], [PostDate], [AuthorName], [AuthorAvatar], [AuthorDescription]) VALUES (2, N'Sample Post 2', N'Lorem ipsum content for post 2.', N'1900-01-01 00:00:06', N'Jane Smith', N'/assets/img/author2.jpg', N'Author 2 description')
+INSERT INTO [dbo].[post] ([PostId], [Title], [Content], [PostDate], [AuthorName], [AuthorAvatar], [AuthorDescription]) VALUES (3, N'Sample Post Title', N'This is the content of the post. Lorem ipsum dolor sit amet, consectetur adipiscing elit.', N'2024-02-22 20:52:45', N'Shreyas', N'path/to/shreyas-avatar.jpg', N'Author description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.')
+SET IDENTITY_INSERT [dbo].[post] OFF

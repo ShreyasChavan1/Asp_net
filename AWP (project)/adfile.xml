@@ -1,0 +1,36 @@
+﻿<Advertisements>
+	<Ad>
+		<ImageUrl>adrotator/ad1.jpeg</ImageUrl>
+		<NavigateUrl>https://twitter.com/shibhhuu/status/1758002096891400192</NavigateUrl>
+		<AlternateText>
+			Order flowers, roses, gifts and more
+		</AlternateText>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>adrotator/ad2.jpg</ImageUrl>
+		<NavigateUrl>https://twitter.com/shibhhuu/status/1758002096891400192</NavigateUrl>
+		<AlternateText>Order roses and flowers</AlternateText>
+
+	</Ad>
+
+	<Ad>
+		<ImageUrl>adrotator/ad3.jpg</ImageUrl>
+		<NavigateUrl>https://twitter.com/shibhhuu/status/1758002096891400192</NavigateUrl>
+		<AlternateText>Send flowers to Russia</AlternateText>
+
+	</Ad>
+
+	<Ad>
+		<ImageUrl>adrotator/ad4.jpg</ImageUrl>
+		<NavigateUrl>https://twitter.com/shibhhuu/status/1758002096891400192</NavigateUrl>
+		<AlternateText>Edible Blooms</AlternateText>
+
+	</Ad>
+	<Ad>
+		<ImageUrl>adrotator/ad5.png</ImageUrl>
+		<NavigateUrl>https://twitter.com/shibhhuu/status/1758002096891400192</NavigateUrl>
+		<AlternateText>Edible Blooms</AlternateText>
+
+	</Ad>
+</Advertisements>
